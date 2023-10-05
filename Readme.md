@@ -1,4 +1,5 @@
 #Код для исследования
+
 public class JvmComprehension {                     //После загрузки ClassLoader в область памяти Metaspace подгружается JvmComprehension класс и все мета данные.
 
     public static void main(String[] args) {        // Создается фрейм main в стеке. Jvm ищет точку входа
